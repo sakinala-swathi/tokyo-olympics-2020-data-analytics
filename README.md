@@ -27,5 +27,9 @@ This repository provides an in-depth analysis of the **Tokyo 2020 Olympics** dat
    ```sh
    git clone https://github.com//tokyo-olympics-2020-data-analytics.git
 
+2.  **Access the semantic model** to your local system:  
+   ```sh
+   https://app.powerbi.com/datahub/datasets/31981338-e23d-4972-a83a-76d6b4df51a9?ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93&pbi_source=linkShare
+
    
 
