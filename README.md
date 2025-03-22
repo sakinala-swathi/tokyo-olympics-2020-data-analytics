@@ -16,9 +16,7 @@ This repository provides an in-depth analysis of the **Tokyo 2020 Olympics** dat
   - Analyzing past trends to make data-driven predictions.  
 
 ## Technologies Used  
-- **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)** for data analysis and visualization.  
-- **Jupyter Notebooks** for interactive data exploration.  
-- **SQL (if applicable)** for querying structured Olympic data.  
+- **Power BI** for visualization
 - **GitHub** for version control and collaboration.  
 
 ## Data Source  
